@@ -1,13 +1,10 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - -Entry Point
- *
- * Return: Always 0(Success)
- */
-
+ *main- serves as the entry point for the program
+ *Return: By default return zero if no erros otherwise returns non-zero value.
+*/
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle);
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
-
 }
